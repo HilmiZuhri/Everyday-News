@@ -2,7 +2,7 @@
         
         Step 1: Clone/Download zip from git.
 
-        Step 2: Extract this folder in xampp htdocs folder as everydayNews folder.
+        Step 2: Extract this folder in xampp htdocs folder or in www folders (if you are using laragon) as everydayNews folder.
 
         Step 3: Import database to phpMyAdmin (SQL file located in the root/database/news-cms.sql)
                - Go to localhost/phpmyadmin
